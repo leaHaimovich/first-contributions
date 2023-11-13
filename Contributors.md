@@ -1,5 +1,6 @@
 ﻿
 # Contributors
+- [Noya David](https://github.com/Sanober494u)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 - [Ciberdcuk] (https://github.com/gerosantacruz)
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
@@ -221,6 +222,7 @@ Brent L
 - [Matthew Turner](https://github.com/Mjturn)
   [Ken Jarvis](https://github.com/Devlore)
 - [rochhh](https://github.com/rochhh)
+- [Ester](https://github.com/EsterBlassLev)
 - [Andrew Donnelly](https://github.com/Learningtotry)
 - [Janvi](https://github.com/janvi2502)
 - [Kousic](https://github.com/Kousic05)
@@ -3942,6 +3944,7 @@ Akash Abraham
 - [raphaeling](https://github.com/raphaeling)
 - [jkasama](https://github.com/jkasama)
 - [ljunya](https://github.com/ljy18)
+- [Naomi Oyerbach](https://github.com/NaomiOyerbach)
 - [wissensalt](https://github.com/wissensalt)
 - [sprvgt](https://github.com/sprvgt)
 - [Zain-Alabdeen](https://github.com/zainalabdeen)
